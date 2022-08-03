@@ -9,7 +9,7 @@
 ## Source Code
 
 | Code |
-|---------------|
+|:---------------:|
 | [Linear + Decision Tree + Random Forest + ADA Boost + Gradient Boost + Multilayer Neural Network](https://www.kaggle.com/code/georgekantasis/respiratory-sound-classification) |
 | [Logistic regression + Boosted Decision Tree with XGBoost + CNN using the STFT + Neural Network concatenating a CNN and a deep Neural Network](https://www.kaggle.com/code/lesxyz/resp-analysis-kaggle) |
 | [CNN](https://www.kaggle.com/code/markdenton/cnn-disease-classification-linked-features-95) |
