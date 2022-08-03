@@ -16,7 +16,7 @@
 | [ResNet50](https://www.kaggle.com/code/souro12/training-audio-sequence-using-resnet50) |
 | [Multi Class Decision Tree](https://www.kaggle.com/code/gizemtanriver/multi-class-classification-by-decision-tree) |
 | [CNN using MFCC](https://www.kaggle.com/code/gizemtanriver/disease-classification-by-cnn-using-mfcc) |
-| [SVM (Radial Basis Function) + XGBoost + ANN/CNN](https://github.com/anvaypandit/Respiratory-Sound-Data-Classification) |
+| [SVM (Radial Basis Function) + XGBoost + ANN + CNN](https://github.com/anvaypandit/Respiratory-Sound-Data-Classification) |
   
 ## Report
   
