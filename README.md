@@ -11,7 +11,7 @@
 | Code |
 |:---------------:|
 | [Linear + Decision Tree + Random Forest + ADA Boost + Gradient Boost + Multilayer Neural Network](https://www.kaggle.com/code/georgekantasis/respiratory-sound-classification) |
-| [Logistic regression + Boosted Decision Tree with XGBoost + CNN using the STFT + Neural Network concatenating a CNN and a deep Neural Network](https://www.kaggle.com/code/lesxyz/resp-analysis-kaggle) |
+| [Logistic Regression + Boosted Decision Tree with XGBoost + CNN using STFT + Neural Network with CNN and Deep Neural Network](https://www.kaggle.com/code/lesxyz/resp-analysis-kaggle) |
 | [CNN](https://www.kaggle.com/code/markdenton/cnn-disease-classification-linked-features-95) |
 | [ResNet50](https://www.kaggle.com/code/souro12/training-audio-sequence-using-resnet50) |
 | [Multi Class Decision Tree](https://www.kaggle.com/code/gizemtanriver/multi-class-classification-by-decision-tree) |
