@@ -10,6 +10,14 @@
 |:---------------:|
 | [PDF](https://github.com/a3X3k/Ausculation-Sound-Classification/blob/main/Level%201/Journals/1.pdf) |
 
+## Papers Read
+  
+| Member | Paper | 
+|:---------------:|:---------------:|
+| S Abhishek | 1 - 2 - 3 |
+| Mahima M | 3 - 4 - 5 |
+| Anantha Padmanabhan | 3 - 6 |
+
 ## Source Code
 
 | Code |
