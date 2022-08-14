@@ -10,7 +10,7 @@
 |:---------------:|
 | [PDF](https://github.com/a3X3k/Ausculation-Sound-Classification/blob/main/Level%201/Journals/1.pdf) |
 
-## Papers Read
+## Papers Read - [Literature Survey Excel Sheet](https://amritauniv-my.sharepoint.com/:x:/g/personal/anjalit_am_amrita_edu/EX_xguAsREBNtseph2rQBswBnjPqpygLIzAepFHK5o4u3Q?e=4%3aSOOFOu&at=9)
   
 | Member | Paper | 
 |:---------------:|:---------------:|
