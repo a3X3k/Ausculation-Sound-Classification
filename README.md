@@ -31,13 +31,13 @@
 ## Report
   
 | Link |
-|---------------|
+|:---------------:|
 | [Report](https://fereshtehshah.github.io/Respiratory_Disorders/) |
   
 ## Data Set
 
 | Name           | Link |
-|----------------|---------------|
+|:----------------:|:---------------:|
 | Kaggle | [Kaggle](https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database/download) |
 | Report | [Respiratory Sound Database](https://eden.dei.uc.pt/~ruipedro/publications/Conferences/ICBHI2017a.pdf) |
 | Report | [ICBHI 2017 Challenge](https://bhichallenge.med.auth.gr/) |
