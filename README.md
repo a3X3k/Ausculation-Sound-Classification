@@ -10,9 +10,7 @@
 |:---------------:|
 | [PDF](https://github.com/a3X3k/Ausculation-Sound-Classification/blob/main/Level%201/Journals/1.pdf) |
 
-[Literature Survey Excel Sheet](https://amritauniv-my.sharepoint.com/:x:/g/personal/anjalit_am_amrita_edu/EX_xguAsREBNtseph2rQBswBnjPqpygLIzAepFHK5o4u3Q?e=4%3aSOOFOu&at=9)
-  
-| Member | Paper | 
+| Member | Paper - [Literature Survey Excel Sheet](https://amritauniv-my.sharepoint.com/:x:/g/personal/anjalit_am_amrita_edu/EX_xguAsREBNtseph2rQBswBnjPqpygLIzAepFHK5o4u3Q?e=4%3aSOOFOu&at=9)| 
 |:---------------:|:---------------:|
 | S Abhishek | 1 - 2 - 3 |
 | Mahima M | 3 - 4 - 5 |
