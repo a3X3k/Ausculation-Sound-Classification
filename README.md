@@ -41,5 +41,13 @@
 | Kaggle | [Kaggle](https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database/download) |
 | Report | [Respiratory Sound Database](https://eden.dei.uc.pt/~ruipedro/publications/Conferences/ICBHI2017a.pdf) |
 | Report | [ICBHI 2017 Challenge](https://bhichallenge.med.auth.gr/) |
+
+## Have a Read
+
+| Tutorials & Blogs |
+|:----------------:|
+| [Medium](https://medium.com/hackernoon/introduction-to-deep-learning-9064d6b87a51) |
+| [Medium](https://medium.com/mindorks/what-is-deep-learning-and-why-you-should-know-about-it-1dcabac4ab9c) |
+| [Medium](https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e) |
   
 </div>
