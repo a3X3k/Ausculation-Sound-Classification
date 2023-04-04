@@ -156,7 +156,7 @@ patient_data['BMI_imputed'] = ~patient_data['BMI_imputed'].isnull()
 print(patient_data.isna().sum())
 ```
 
-## Visualization Of Distributions
+# Visualization Of Distributions
 
 ```py
 my_title_layout = dict({"text" : "my Distribution", 'xanchor' : 'center', 'x' : 0.5, 'y' : 0.9, 'font' : {'size' : 30}})
@@ -240,7 +240,7 @@ fig.show()
 patient_data.loc[patient_data['Diagnosis']=='COPD']
 ```
 
-## Data Augmentation
+# Count Plot Before Augmentation
 
 ```py
 plt.figure(figsize=(13, 5));
@@ -249,6 +249,8 @@ ax = countplot(patient_data['Diagnosis']);
 
 plt.show();
 ```
+
+# Data Augmentation
 
 ```py
 def add_noise(data,x):
@@ -378,6 +380,8 @@ def InstantiateAttributes(dir_):
 X, Y = InstantiateAttributes('/content/drive/MyDrive/FYP/Audio/')
 ```
 
+# Count Plot After Augmentation
+
 ```py
 plt.figure(figsize=(13, 5));
 
@@ -385,6 +389,8 @@ ax = countplot(Y);
 
 plt.show();
 ```
+
+# Modelling
 
 ```py
 lb = LabelEncoder()
@@ -396,11 +402,7 @@ Y = np_utils.to_categorical(y_integer)
 X = X.reshape(X.shape[0],1,X.shape[1])
 
 Y = Y.reshape(Y.shape[0],1,Y.shape[1])
-```
 
-# Modelling
-
-```py
 K.clear_session()
 
 batch_size=X.shape[0]
@@ -602,18 +604,3 @@ print(classification_report(testy, yhat_classes, target_names=c_names))
 
 print(confusion_matrix(testy, yhat_classes))
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
